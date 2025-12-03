@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://EverydayWearableForHealth.github.io/al-folio/sitemap.xml
+Sitemap: https://EverydayWearableForHealth.github.io/sitemap.xml

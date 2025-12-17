@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "Tentative Schedule of the Half-Day Workshop",
+          description: "Tentative Schedule of the two-session Workshop",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
@@ -37,14 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cfp/";
           },
-        },{id: "dropdown-uist-39-24",
-              title: "UIST&#39;24",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/uist24/";
-              },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -71,20 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-successful-uist-workshop-hosted-we-had-a-full-room-discussing-democratizing-intelligent-soft-wearables",
-          title: 'Successful UIST workshop hosted! We had a full room discussing democratizing intelligent soft...',
+            },},{id: "news-workshop-cfp-released-looking-forward-to-your-submissions",
+          title: 'Workshop CFP released! Looking forward to your submissions!',
           description: "",
-          section: "News",},{id: "news-ubicomp-workshop-accepted",
-          title: 'UbiComp Workshop Accepted!',
-          description: "",
-          section: "News",},{id: "news-ubicomp-workshop-cfp-released-looking-forward-to-your-submissions",
-          title: 'UbiComp Workshop CFP released! Looking forward to your submissions!',
-          description: "",
-          section: "News",},{id: "news-pcs-submission-opens",
-          title: 'PCS submission opens.',
-          description: "",
-          section: "News",},{id: "news-submission-deadline-extended-to-7-3-25",
-          title: 'Submission deadline extended to 7/3/25.',
+          section: "News",},{id: "news-chi-workshop-accepted",
+          title: 'CHI Workshop Accepted!',
           description: "",
           section: "News",},{
         id: 'social-email',

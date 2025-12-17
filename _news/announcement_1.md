@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-26
+date: 2026-11-20
 inline: true
 related_posts: false
 ---
 
-UbiComp Workshop Accepted!
+CHI Workshop Accepted!

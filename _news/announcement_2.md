@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-10-13
+date: 2025-12-18
 inline: true
 related_posts: false
 ---
-
-Successful UIST workshop hosted! We had a full room discussing democratizing intelligent soft wearables.
+Workshop CFP released! Looking forward to your submissions!

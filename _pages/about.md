@@ -35,6 +35,7 @@ Wearable health technologies are rapidly shifting care from clinical settings in
 
 ### Important Dates:
 <!-- * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline -->
+* [ ] **12/22/25 AoE**: Call for Participation Released
 * [ ] **2/27/26 AoE**: Submission Deadline
 * [ ] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->

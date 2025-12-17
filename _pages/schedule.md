@@ -12,6 +12,7 @@ nav_order: 2
 | 1  | 15 min   | **Welcome and Introductions**                      |
 | 1  | 30 min   | **Lightning Talks by Accepted Participants** |
 | 1  | 45 min   | **Keynote Speaker 1, followed by 15min Q&A** |
+|  | 15 min   | Coffee Break                                       |
 | 2  | 45 min   | **Keynote Speaker 2, followed by 15min Q&A** |
 | 2  | 45 min   | **Group Discussions with Demos/Posters** |
 

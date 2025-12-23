@@ -18,4 +18,4 @@ nav_order: 2
 <!-- Register for our workshop via the [UbiComp/ISWC registration](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/).  -->
 All participants are strongly encouraged to bring their physical artifacts/demos to share during the demo/poster session!
 
-See the [schedule page](https://https://everydaywearableforhealth.github.io/schedule/) for detailed schedule.
+See the [schedule page](https://everydaywearableforhealth.github.io/schedule/) for detailed schedule.

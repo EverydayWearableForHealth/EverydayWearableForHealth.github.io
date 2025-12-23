@@ -40,7 +40,7 @@ Submissions areas of interest include (but are not limited to):
 
 ### Preparing for the Submission
 All submissions must be formatted using the **ACM double-column CHI 2026 Proceedings** template.
-Participants should submit their position papers via email to **everydaywearablesforhealth@gmail.com**, with the subject line **[Workshop Submission]**.
+Participants should submit their position papers via email to **[everydaywearablesforhealth@gmail.com](mailto:everydaywearablesforhealth@gmail.com)**, with the subject line **[Workshop Submission]**.
 
 ### Review Process
 Workshop submissions undergo single-blind review by 2 reviewers who are organizers of the workshop.

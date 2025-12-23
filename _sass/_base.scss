@@ -383,6 +383,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Navbar font sizes */
+.navbar .navbar-brand.title {  /* only shows on non-home pages */
+  font-size: 1.0rem;           /* adjust as needed */
+}
+
+.navbar .nav-link {            /* all nav links, including search icon text */
+  font-size: 1.05rem;          /* adjust as needed */
+}
+
 #light-toggle,
 #search-toggle {
   padding: 0;
@@ -1065,7 +1074,7 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 1.75rem;
   }
 
   .nav > li > a {

@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-> Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and Work in Progress (WiP)/position papers. Accepted demos/reports/papers are **not required** for attending the workshop.
+> Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and posters. Accepted demos/reports/posters are **not required** for attending the workshop.
 
 
 **Time: TBD**

@@ -39,7 +39,7 @@ Submissions areas of interest include (but are not limited to):
 * Integration of wearable systems with digital health ecosystems and clinical workflows
 
 ### Preparing for the Submission
-All submissions must be formatted using the **ACM double-column CHI 2026 Proceedings** template.
+All submissions must be formatted using the **[ACM double-column CHI 2026 Proceedings](https://chi2026.acm.org/chi-publication-formats/)** template.
 Participants should submit their position papers via email to **[everydaywearablesforhealth@gmail.com](mailto:everydaywearablesforhealth@gmail.com)**, with the subject line **[Workshop Submission]**.
 
 ### Review Process

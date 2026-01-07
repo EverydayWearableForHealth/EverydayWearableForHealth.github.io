@@ -19,7 +19,7 @@ latest_posts:
 <!-- > The workshop will take place on April ??th  ??:00-??:00, at ??. -->
 <!-- > [Register now!](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/) -->
 
-> Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and Work in Progress (WiP)/position papers. Accepted demos/reports/papers are **not required** for attending the workshop.
+> Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and poster papers. Accepted demos/reports/posters are **not required** for attending the workshop.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CHI26_banner.png" title="CHI26 banner" class="img-fluid rounded z-depth-1" %}

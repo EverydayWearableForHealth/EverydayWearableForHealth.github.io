@@ -67,6 +67,9 @@ ninja.data = [{
             },},{id: "news-chi-workshop-accepted",
           title: 'CHI Workshop Accepted!',
           description: "",
+          section: "News",},{id: "news-finalized-keynote-speakers-prof-mayank-goel-and-dr-akshay-paruchuri",
+          title: 'Finalized keynote speakers: Prof. Mayank Goel and Dr. Akshay Paruchuri',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

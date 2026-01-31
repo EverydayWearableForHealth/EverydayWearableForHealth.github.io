@@ -15,7 +15,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 > Join our workshop @ [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain! <br>
-> When/Where: TBD
+> When: Tuesday, April 14, 2026 <br>
+> Time: 14:15 - 18:00 CEST (2 sessions) <br>
+> Location: TBD
 <!-- > The workshop will take place on April ??th  ??:00-??:00, at ??. -->
 <!-- > [Register now!](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/) -->
 

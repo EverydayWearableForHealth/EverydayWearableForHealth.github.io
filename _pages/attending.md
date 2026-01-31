@@ -10,9 +10,8 @@ nav_order: 2
 
 > Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and posters. Accepted demos/reports/posters are **not required** for attending the workshop.
 
-
-**Time: TBD**
-
+**Date: Tuesday, April 14, 2026** <br>
+**Time: 14:15 - 18:00 CEST** <br>
 **Location: TBD** 
 
 <!-- Register for our workshop via the [UbiComp/ISWC registration](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/).  -->

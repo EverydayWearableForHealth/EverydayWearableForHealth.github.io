@@ -7,14 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-| Session     | Duration | Event                                              |
+| Start Time     | Duration | Event                                              |
 | -------- | -------- | -------------------------------------------------- |
-| 1  | 15 min   | **Welcome and Introductions**                      |
-| 1  | 30 min   | **Lightning Talks by Accepted Participants** |
-| 1  | 45 min   | **Keynote by [Prof. Mayank Goel](http://www.mayankgoel.com/), followed by 15min Q&A** |
-|  | 15 min   | Coffee Break                                       |
-| 2  | 45 min   | **Keynote by [Dr. Akshay Paruchuri](https://akshayparuchuri.com/), followed by 15min Q&A** |
-| 2  | 45 min   | **Group Discussions with Demos/Posters** |
+| 14:15  | 15 min   | **Welcome and Introductions**                      |
+| 14:30  | 30 min   | **Lightning Talks by Accepted Participants** |
+| 15:00  | 45 min   | **Keynote by [Prof. Mayank Goel](http://www.mayankgoel.com/), followed by 15min Q&A** |
+| 15:45 | 45 min   | Break                                       |
+| 16:30  | 45 min   | **Keynote by [Dr. Akshay Paruchuri](https://akshayparuchuri.com/), followed by 15min Q&A** |
+| 17:15  | 45 min   | **Group Discussions with Demos/Posters** |
 
 <!-- | 1  | 30 min   | **Speed Conversing (small group discussions)** | -->
 <!-- | 2 | 0 h 15   | Coffee Break                                       | -->

@@ -46,7 +46,7 @@ Participants should submit their position papers via email to **[everydaywearabl
 Workshop submissions undergo single-blind review by 2 reviewers who are organizers of the workshop.
 
 ### Upon Accpetance
-Authors of the accepted submissions can choose to have their submissions included in the ACM Digital Library as supplemental proceedings of the conference.
+Authors of the accepted submissions can choose to have their submissions publicly available through this website (no DOI assignment). ~~the ACM Digital Library as supplemental proceedings of the conference.~~
 
 ### During the Workshop
 All accepted submissions will be presented/showcased during the workshop.

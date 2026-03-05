@@ -17,7 +17,7 @@ latest_posts:
 > Join our workshop @ [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain! <br>
 > When: Tuesday, April 14, 2026 <br>
 > Time: 14:15 - 18:00 CEST (2 sessions) <br>
-> Location: TBD
+> Location: P1 - Room 120
 <!-- > The workshop will take place on April ??th  ??:00-??:00, at ??. -->
 <!-- > [Register now!](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/) -->
 
@@ -38,9 +38,9 @@ Wearable health technologies are rapidly shifting care from clinical settings in
 ### Important Dates:
 <!-- * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline -->
 * [x] **12/22/25 AoE**: [Call for Participation](https://everydaywearableforhealth.github.io/cfp/) Released
-* [ ] **2/27/26 AoE**: Submission Deadline
+* [x] **2/27/26 AoE**: Submission Deadline
 * [ ] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->
-* [ ] **TBD**: Day of the Workshop 
+* [ ] **P1 - Room 120**: Day of the Workshop 
 
 If you have any questions, please contact **chankyu[at]uw[dot]edu** or **hongyum[at]uw[dot]edu**.

@@ -12,7 +12,7 @@ nav_order: 2
 
 **Date: Tuesday, April 14, 2026** <br>
 **Time: 14:15 - 18:00 CEST** <br>
-**Location: TBD** 
+**Location: P1 - Room 120** 
 
 <!-- Register for our workshop via the [UbiComp/ISWC registration](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/).  -->
 All participants are strongly encouraged to bring their physical artifacts/demos to share during the demo/poster session!

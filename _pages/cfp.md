@@ -16,10 +16,10 @@ We invite participants who are experienced in and/or interested in intelligent s
 
 ### Important Dates
 <!-- * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline -->
-* [ ] **2/27/26 AoE**: Submission Deadline
+* [x] **2/27/26 AoE**: Submission Deadline
 * [ ] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **3/20/26 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->
-* [ ] **TBD**: Day of the Workshop 
+* [ ] **P1 - Room 120**: Day of the Workshop 
 
 ### Topics of Interest
 Submissions areas of interest include (but are not limited to):

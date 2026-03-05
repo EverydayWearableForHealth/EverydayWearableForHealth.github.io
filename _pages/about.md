@@ -41,6 +41,6 @@ Wearable health technologies are rapidly shifting care from clinical settings in
 * [x] **2/27/26 AoE**: Submission Deadline
 * [ ] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->
-* [ ] **P1 - Room 120**: Day of the Workshop 
+* [ ] **4/14/26**: Day of the Workshop 
 
 If you have any questions, please contact **chankyu[at]uw[dot]edu** or **hongyum[at]uw[dot]edu**.

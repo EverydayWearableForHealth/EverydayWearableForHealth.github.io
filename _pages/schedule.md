@@ -48,7 +48,7 @@ Akshay Paruchuri is a Postdoctoral Scholar in the Stanford Translational AI (STA
 - **From Intention and Action: An Invasive BCI-Driven Wearable Framework for Everyday Hand Assistance in SCI Patients**: Yili Wen, Ceci Verbaarschot, Liang He [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/intention.pdf)
 - **Embodrink: Embodied MR for Physiology-Informed Beverage Recommendation**: Prasanth Sasikumar, Takahiro Masuda, Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Suranga Nanayakkara [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Embodrink.pdf)
 - **Chest Tells Who You Are: Feature Analysis of Wearable Near-Field Sensor Signals for Biometric Authentication**: Shun Hinatsu, Hidetoshi Makimura [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/hinatsu_chi2026w27_20260227.pdf)
-- **HeartbeatCam: Self-Triggered Photo Elicitation of Stress Events Using Wearable Sensing**: Boyang Zhou, Zara Dana [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/_CHI_Workshop_2026__HeartbeatCam.pdf)
+- **HeartbeatCam: Self-Triggered Photo Elicitation of Stress Events Using Wearable Sensing**: Boyang Zhou, Zara Dana [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/HeartbeatCam.pdf)
 - **OptiStrip: An Addressable Optical Strip for Multi-Bend Shape and Interaction Sensing**: Jungrak Choi\*, Chan-Hwa Hong
 - **Ordinary Days: Context-Aware Multimodal AI for Personalized Stress Intervention**: Selah Key [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Ordinary.pdf)
 - **Somatic Empathy and Sensory Metaphors: Exploring Haptic Materials for Everyday Well-being**: Yixuan Li, Shuai Wang, Xiuqi Tommy Zhu, Rui Zhang, YangJiao\*, Liang He\*

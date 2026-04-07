@@ -39,7 +39,7 @@ Wearable health technologies are rapidly shifting care from clinical settings in
 <!-- * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline -->
 * [x] **12/22/25 AoE**: [Call for Participation](https://everydaywearableforhealth.github.io/cfp/) Released
 * [x] **2/27/26 AoE**: Submission Deadline
-* [ ] **3/13/26 AoE**: Decision Notification
+* [x] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->
 * [ ] **4/14/26**: Day of the Workshop 
 

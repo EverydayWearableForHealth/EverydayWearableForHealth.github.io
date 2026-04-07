@@ -17,7 +17,7 @@ We invite participants who are experienced in and/or interested in intelligent s
 ### Important Dates
 <!-- * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline -->
 * [x] **2/27/26 AoE**: Submission Deadline
-* [ ] **3/13/26 AoE**: Decision Notification
+* [x] **3/13/26 AoE**: Decision Notification
 <!-- * [ ] **3/20/26 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL  -->
 * [ ] **4/14/26**: Day of the Workshop 
 

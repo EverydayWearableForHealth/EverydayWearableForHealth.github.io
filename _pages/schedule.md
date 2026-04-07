@@ -42,18 +42,32 @@ Akshay Paruchuri is a Postdoctoral Scholar in the Stanford Translational AI (STA
 
 ---
 ### Accepted Contributions
+- **GlucoScreen-C: Smartphone Test Strips for Health Screening User Experience Demo**: Jason S. Hoffman, Kristyna Kalisova, Ananya Vaidyaraman, Qiulin Qu, Tammy Nguyen, Kate Muret, Shwetak Patel [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/GlucoScreen_C_CHI_WorkshopDemo_v4.pdf)
+- **PAWS: Empowering Everyday Cannabis Use Disorder Support through a Personalized AI Digital Pet on Smartwatches**: Zhihan Jiang, Mengyuan “Millie” Wu, Ruishi Zou, Shiyu Xu, Emma Macmanus, Steven Liao, Ping Zhang, Dakuo Wang, James L. David, Nabila El-Bassel, Lena Mamykina, Frances R. Levin, Ryan Sultan, Xuhai Xu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/CHI26W_Submission_Digital_Pet_for_CUD.pdf)
+- **From Virtual to Tangible: A Physical Emotional Avatar for Heart-Rate Biofeedback**: Samuel Navas-Medrano, Jose Luis Soler-Dominguez, Patricia Pons
+- **From Intention and Action: An Invasive BCI-Driven Wearable Framework for Everyday Hand Assistance in SCI Patients**: Yili Wen, Ceci Verbaarschot, Liang He [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/intention.pdf)
+- **Embodrink: Embodied MR for Physiology-Informed Beverage Recommendation**: Prasanth Sasikumar, Takahiro Masuda, Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Suranga Nanayakkara [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Embodrink.pdf)
+- **Chest Tells Who You Are: Feature Analysis of Wearable Near-Field Sensor Signals for Biometric Authentication**: Shun Hinatsu, Hidetoshi Makimura [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/hinatsu_chi2026w27_20260227.pdf)
+- **HeartbeatCam: Self-Triggered Photo Elicitation of Stress Events Using Wearable Sensing**: Boyang Zhou, Zara Dana [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/_CHI_Workshop_2026__HeartbeatCam.pdf)
+- **OptiStrip: An Addressable Optical Strip for Multi-Bend Shape and Interaction Sensing**: Jungrak Choi\*, Chan-Hwa Hong
+- **Ordinary Days: Context-Aware Multimodal AI for Personalized Stress Intervention**: Selah Key [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Ordinary.pdf)
+- **Somatic Empathy and Sensory Metaphors: Exploring Haptic Materials for Everyday Well-being**: Yixuan Li, Shuai Wang, Xiuqi Tommy Zhu, Rui Zhang, YangJiao\*, Liang He\*
+- **Capturing Chewing and Swallowing with Earables: A Multimodal Dataset Across Contexts**: Jun Fang\*, Ka I Chan\*, Xiyuxing Zhang\*, Yuntao Wang†, Zihang Zhan, Zhixin Zhao, Yuanchun Shi†
+- **EmoDrink: Affect-Aware Beverage Recommendation via Wearable Physiological Sensing**: Sankha Cooray, Soundarya Ramesh, Hyung Woon Lee, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
+- **Demonstrating the MoTTs: Minimalist Smartwatch-based Wearables to Support Physical Rehabilitation Activities**: José Manuel Vega-Cebrián, Elena Márquez Segura, Ana Tajadura-Jiménez [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/CHI_2026_Demo_MoTTs.pdf)
+- **Supporting Dynamic Engagement in Video-Mediated Copresence through Attention-Aware Mediation**: Sieun Kim, Junyi Zhu
+- **Mobile Health Management via Continuous Wearable Telemetry**: Di Wang, Bo Huang, Zhiwei Zeng, Jun Ji, Bo Gao, Robin Chung Leung Chan, Yang Qiu, Ming Chen, Huigui Zhang, Chunyan Miao
+- **MDwAIstScheduler: A Low-Cost, Voice-Activated Device for Hands-Free Clinical Scheduling**: Diego Mardian, Frank Liu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/AI_Scheduler_Paper.pdf)
+- **Fatigue monitoring with multimodal sensing and machine learning: a patient participatory study**: Veronica Martinez, Stephen Green, Rosalind Adam, Jonathan Cooper, Derek Hill, Yojana Lotankar, Katherine Bradbury, Daniel Powell, Lisa Duncan
+- **Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study**: Berenika Ewart-James, Matthew Wragg, Nawid Keshtmand, Amberly Brigden, Paul Marshall, Raul Santos-Rodriguez [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Circadian.pdf)
+- **Influence of Sleep Physiological Data on Affect Prediction**: Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
+- **EEG Headphones for Everyday Cognitive State Research**: Lukas Schick, Michael T. Knierim
+- **BEmotion: A Dataset of Biosignals and Emotions collected using Smartwatches in the Field**: Elias Mueller\*, Kirsten Greiner\*, Ivo Benke, Alexander Maedche
+- **From Everyday Wearables to Clinical Workflows: Measuring Early Engagement with Patient-Connected Devices in the EHR**: Michael Sobolev
+- **Towards a Framework for Designing Socially Acceptable Wearables for Well-being**: Sabrina Lakhdhir, Sowmya Somanath [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Lakhdhir.pdf) 
+- **Guided Breathing Lamp: An Interactive Real-Time Breathing-Sensing and Guidance System**: Jisu Yim, Rana Kamh, Yuxuan Gao, Yaxin Pang, Junyi Zhu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Guided_Breathing_Lamp.pdf)
 
-Will be listed here
 
-<!-- Demo: 
 
-- **Plug-n-play e-knit with LED-based sensor positioning**: Yifan Li, Ryo Takahashi, Irmandy Wicaksono, Wakako Yukita, Yuhiro Iwamoto, Sunghoon Lee, Tomoyuki Yokota, Yoshihiro Kawahara
-- **Rethinking Wearability: When the Pillow Wears the Dreamer**: Edwina Portocarrero, Zsofia Levai
-- **Smart Textiles, HCI and User’s Dignity**: Ziqian Bai, Kai Lin, Qi Fang, Qianwen Tan, Ziyan Xia
-- **O₂RA HEADBAND**: Zsofia Levai
 
-Late-Breaking Work:
 
-- **Feeling the Direction: Understanding Affective Responses to Tactile Motion via a Wearable Pneumatic Interface**: Liwen He, Boxue Shen, Dangxiao Wang, Yun Wang
-- **A Little Help from Friends: Short-Term Collaborations with AI and non-AI Agents for Exploring Digital Embroidery**: Margaret Minsky
-- **Assessing Knit Parameters and Performance of Strain Sensors Made from Stainless Steel and Polypyrrole-based Yarns**: Ramyah Gowrishankar, Ilona Mattila, Matteo Iannacchero, Fevzihan Bazarir, Jaana Vapaavuori, Yu Xiao -->

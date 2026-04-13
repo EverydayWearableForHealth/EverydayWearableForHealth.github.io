@@ -56,12 +56,13 @@ Group 1:
 - **Ordinary Days: Context-Aware Multimodal AI for Personalized Stress Intervention**: Selah Key [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Ordinary.pdf)
 - **Somatic Empathy and Sensory Metaphors: Exploring Haptic Materials for Everyday Well-being**: Yixuan Li, Shuai Wang, Xiuqi Tommy Zhu, Rui Zhang, YangJiao\*, Liang He\*
 - **Capturing Chewing and Swallowing with Earables: A Multimodal Dataset Across Contexts**: Jun Fang\*, Ka I Chan\*, Xiyuxing Zhang\*, Yuntao Wang†, Zihang Zhan, Zhixin Zhao, Yuanchun Shi†
-- **EmoDrink: Affect-Aware Beverage Recommendation via Wearable Physiological Sensing**: Sankha Cooray, Soundarya Ramesh, Hyung Woon Lee, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
+- **Supporting Dynamic Engagement in Video-Mediated Copresence through Attention-Aware Mediation**: Sieun Kim, Junyi Zhu
+
 
 Group 2:
 - **OptiStrip: An Addressable Optical Strip for Multi-Bend Shape and Interaction Sensing**: Jungrak Choi\*, Chan-Hwa Hong
+- **EmoDrink: Affect-Aware Beverage Recommendation via Wearable Physiological Sensing**: Sankha Cooray, Soundarya Ramesh, Hyung Woon Lee, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
 - **Demonstrating the MoTTs: Minimalist Smartwatch-based Wearables to Support Physical Rehabilitation Activities**: José Manuel Vega-Cebrián, Elena Márquez Segura, Ana Tajadura-Jiménez [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/CHI_2026_Demo_MoTTs.pdf)
-- **Supporting Dynamic Engagement in Video-Mediated Copresence through Attention-Aware Mediation**: Sieun Kim, Junyi Zhu
 - **Mobile Health Management via Continuous Wearable Telemetry**: Di Wang, Bo Huang, Zhiwei Zeng, Jun Ji, Bo Gao, Robin Chung Leung Chan, Yang Qiu, Ming Chen, Huigui Zhang, Chunyan Miao
 - **MDwAIstScheduler: A Low-Cost, Voice-Activated Device for Hands-Free Clinical Scheduling**: Diego Mardian, Frank Liu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/AI_Scheduler_Paper.pdf)
 - **Fatigue monitoring with multimodal sensing and machine learning: a patient participatory study**: Veronica Martinez, Stephen Green, Rosalind Adam, Jonathan Cooper, Derek Hill, Yojana Lotankar, Katherine Bradbury, Daniel Powell, Lisa Duncan

@@ -11,10 +11,12 @@ nav_order: 2
 | -------- | -------- | -------------------------------------------------- |
 | 14:15  | 15 min   | **Welcome and Introductions**                      |
 | 14:30  | 45 min   | **Keynote by [Prof. Mayank Goel](http://www.mayankgoel.com/), followed by 15min Q&A** |
-| 15:15  | 30 min   | **Lightning Talks by Accepted Participants** |
+| 15:15  | 30 min   | **Lightning Talks by Accepted Participants (both Group 1 and 2)** |
 | 15:45 | 45 min   | Break                                       |
 | 16:30  | 45 min   | **Keynote by [Dr. Akshay Paruchuri](https://akshayparuchuri.com/), followed by 15min Q&A** |
-| 17:15  | 45 min   | **Group Discussions with Demos/Posters** |
+| 17:15  | 20 min   | **Group 1 Demos/Posters** |
+| 17:35  | 20 min   | **Group 2 Demos/Posters** |
+| 17:55  | 05 min   | **Award Announcement** |
 
 <!-- | 1  | 30 min   | **Speed Conversing (small group discussions)** | -->
 <!-- | 2 | 0 h 15   | Coffee Break                                       | -->
@@ -42,6 +44,7 @@ Akshay Paruchuri is a Postdoctoral Scholar in the Stanford Translational AI (STA
 
 ---
 ### Accepted Contributions
+Group 1:
 - **GlucoScreen-C: Smartphone Test Strips for Health Screening User Experience Demo**: Jason S. Hoffman, Kristyna Kalisova, Ananya Vaidyaraman, Qiulin Qu, Tammy Nguyen, Kate Muret, Shwetak Patel [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/GlucoScreen_C_CHI_WorkshopDemo_v4.pdf)
 - **PAWS: Empowering Everyday Cannabis Use Disorder Support through a Personalized AI Digital Pet on Smartwatches**: Zhihan Jiang, Mengyuan “Millie” Wu, Ruishi Zou, Shiyu Xu, Emma Macmanus, Steven Liao, Ping Zhang, Dakuo Wang, James L. David, Nabila El-Bassel, Lena Mamykina, Frances R. Levin, Ryan Sultan, Xuhai Xu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/CHI26W_Submission_Digital_Pet_for_CUD.pdf)
 - **From Virtual to Tangible: A Physical Emotional Avatar for Heart-Rate Biofeedback**: Samuel Navas-Medrano, Jose Luis Soler-Dominguez, Patricia Pons
@@ -49,18 +52,20 @@ Akshay Paruchuri is a Postdoctoral Scholar in the Stanford Translational AI (STA
 - **Embodrink: Embodied MR for Physiology-Informed Beverage Recommendation**: Prasanth Sasikumar, Takahiro Masuda, Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Suranga Nanayakkara [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Embodrink.pdf)
 - **Chest Tells Who You Are: Feature Analysis of Wearable Near-Field Sensor Signals for Biometric Authentication**: Shun Hinatsu, Hidetoshi Makimura [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/hinatsu_chi2026w27_20260227.pdf)
 - **HeartbeatCam: Self-Triggered Photo Elicitation of Stress Events Using Wearable Sensing**: Boyang Zhou, Zara Dana [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/HeartbeatCam.pdf)
-- **OptiStrip: An Addressable Optical Strip for Multi-Bend Shape and Interaction Sensing**: Jungrak Choi\*, Chan-Hwa Hong
+- **Influence of Sleep Physiological Data on Affect Prediction**: Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
 - **Ordinary Days: Context-Aware Multimodal AI for Personalized Stress Intervention**: Selah Key [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Ordinary.pdf)
 - **Somatic Empathy and Sensory Metaphors: Exploring Haptic Materials for Everyday Well-being**: Yixuan Li, Shuai Wang, Xiuqi Tommy Zhu, Rui Zhang, YangJiao\*, Liang He\*
 - **Capturing Chewing and Swallowing with Earables: A Multimodal Dataset Across Contexts**: Jun Fang\*, Ka I Chan\*, Xiyuxing Zhang\*, Yuntao Wang†, Zihang Zhan, Zhixin Zhao, Yuanchun Shi†
 - **EmoDrink: Affect-Aware Beverage Recommendation via Wearable Physiological Sensing**: Sankha Cooray, Soundarya Ramesh, Hyung Woon Lee, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
+
+Group 2:
+- **OptiStrip: An Addressable Optical Strip for Multi-Bend Shape and Interaction Sensing**: Jungrak Choi\*, Chan-Hwa Hong
 - **Demonstrating the MoTTs: Minimalist Smartwatch-based Wearables to Support Physical Rehabilitation Activities**: José Manuel Vega-Cebrián, Elena Márquez Segura, Ana Tajadura-Jiménez [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/CHI_2026_Demo_MoTTs.pdf)
 - **Supporting Dynamic Engagement in Video-Mediated Copresence through Attention-Aware Mediation**: Sieun Kim, Junyi Zhu
 - **Mobile Health Management via Continuous Wearable Telemetry**: Di Wang, Bo Huang, Zhiwei Zeng, Jun Ji, Bo Gao, Robin Chung Leung Chan, Yang Qiu, Ming Chen, Huigui Zhang, Chunyan Miao
 - **MDwAIstScheduler: A Low-Cost, Voice-Activated Device for Hands-Free Clinical Scheduling**: Diego Mardian, Frank Liu [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/AI_Scheduler_Paper.pdf)
 - **Fatigue monitoring with multimodal sensing and machine learning: a patient participatory study**: Veronica Martinez, Stephen Green, Rosalind Adam, Jonathan Cooper, Derek Hill, Yojana Lotankar, Katherine Bradbury, Daniel Powell, Lisa Duncan
 - **Circadian Phase Locking of Epilepsy Seizures in Wearable Data: A Single-Patient Case Study**: Berenika Ewart-James, Matthew Wragg, Nawid Keshtmand, Amberly Brigden, Paul Marshall, Raul Santos-Rodriguez [[link to paper]](https://everydaywearableforhealth.github.io/assets/pdf/Circadian.pdf)
-- **Influence of Sleep Physiological Data on Affect Prediction**: Soundarya Ramesh, Hyung Woon Lee, Sankha Cooray, Prasanth Sasikumar, Takahiro Masuda, Suranga Nanayakkara
 - **EEG Headphones for Everyday Cognitive State Research**: Lukas Schick, Michael T. Knierim
 - **BEmotion: A Dataset of Biosignals and Emotions collected using Smartwatches in the Field**: Elias Mueller\*, Kirsten Greiner\*, Ivo Benke, Alexander Maedche
 - **From Everyday Wearables to Clinical Workflows: Measuring Early Engagement with Patient-Connected Devices in the EHR**: Michael Sobolev

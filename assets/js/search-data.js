@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "Tentative Schedule of the two-session Workshop",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cfp/";
+          },
+        },{id: "nav-workshop",
+          title: "Workshop",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/workshop/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         

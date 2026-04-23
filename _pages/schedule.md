@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Tentative Schedule of the two-session Workshop
+# description: Tentative Schedule of the two-session Workshop
 nav: true
 nav_order: 2
 ---
@@ -18,6 +18,7 @@ nav_order: 2
 | 17:35  | 20 min   | **Group 2 Demos/Posters** |
 | 17:55  | 05 min   | **Award Announcement** |
 
+
 <!-- | 1  | 30 min   | **Speed Conversing (small group discussions)** | -->
 <!-- | 2 | 0 h 15   | Coffee Break                                       | -->
 <!-- | TBD  | 0 h 45   | **Keynote by [Professor Michael Haller](https://www.mediainteractionlab.eu/?page_id=561), followed by 15min Q&A** | -->
@@ -27,7 +28,6 @@ nav_order: 2
 ### Keynotes
 ##### Prof. Mayank Goel
 <!-- **Title TBD**  -->
-Keynote Details: To be announced
 
 Speaker Bio: 
 Mayank Goel is an Associate Professor in the Software and Societal Systems Department (S3D) and the Human-Computer Interaction Institute (HCII) in the School of Computer Science at Carnegie Mellon University, where he leads the Smart Sensing for Humans (SMASH) Lab. His research focuses on developing practical and deployable sensing and machine-learning systems for health sensing, technologies for the developing world, and novel user interactions that reduce barriers to technology use. His work draws on human–computer interaction, mobile computing, sensing, signal processing, and machine learning, and is inherently interdisciplinary, involving close collaborations with engineers, clinicians, community health workers, patients, and caregivers worldwide. Several of his inventions are deployed in clinics and hospitals, licensed to companies, and integrated into commercial products. He received his PhD in Computer Science and Engineering from the University of Washington, an MS in Computer Science from the Georgia Institute of Technology, and a BTech in Computer Science and Engineering from GGS Indraprastha University, India.
@@ -43,13 +43,12 @@ Speaker Bio:
 Akshay Paruchuri is a Postdoctoral Scholar in the Stanford Translational AI (STAI) Lab, working with Professor Ehsan Adeli on learning from egocentric, multimodal information (e.g., data from wearables and neuroimaging) to improve healthcare outcomes for general populations and those affected by aging-related diseases. He received his PhD in Computer Science from the University of North Carolina at Chapel Hill, advised by Professor Henry Fuchs. His research spans computer vision, machine learning, and healthcare AI, with publications at Nature Communications, NeurIPS, ECCV, MICCAI, and IEEE TVCG. He has conducted research at Google AR, Google Consumer Health Research, and IDSIA USI-SUPSI, and previously developed consumer wearable devices at Nike.
 
 ---
----
 ### Accepted Contributions
 
 **Group 1:**
 
 <ol>
-<li><strong>GlucoScreen-C: Smartphone Test Strips for Health Screening User Experience Demo</strong>: Jason S. Hoffman, Kristyna Kalisova, Ananya Vaidyaraman, Qiulin Qu, Tammy Nguyen, Kate Muret, Shwetak Patel <a href="https://everydaywearableforhealth.github.io/assets/pdf/GlucoScreen_C_CHI_WorkshopDemo_v4.pdf">[link to paper]</a></li>
+<li><strong>GlucoScreen-C: Smartphone Test Strips for Health Screening User Experience Demo</strong>: Jason S. Hoffman, Kristyna Kalisova, Ananya Vaidyaraman, Qiulin Qu, Tammy Nguyen, Kate Muret, Shwetak Patel <a href="https://dl.acm.org/doi/10.1145/3772363.3799167">[link to paper]</a></li>
 
 <li><strong>PAWS: Empowering Everyday Cannabis Use Disorder Support through a Personalized AI Digital Pet on Smartwatches</strong>: Zhihan Jiang, Mengyuan “Millie” Wu, Ruishi Zou, Shiyu Xu, Emma Macmanus, Steven Liao, Ping Zhang, Dakuo Wang, James L. David, Nabila El-Bassel, Lena Mamykina, Frances R. Levin, Ryan Sultan, Xuhai Xu <a href="https://everydaywearableforhealth.github.io/assets/pdf/CHI26W_Submission_Digital_Pet_for_CUD.pdf">[link to paper]</a></li>
 
